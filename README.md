@@ -1,4 +1,20 @@
+<p align="center">
+  <img src="lib/Images/Chester%20TV%20nbg.jpg" width="180">
+</p>
+
 # 📺 Chester TV
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green">
+  <img src="https://img.shields.io/badge/Channels-64+-blue">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Atharva-Meshram/chester-tv/releases/download/Chester_TV_v1.0/ChesterTV.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge">
+  </a>
+</p>
 
 A lightweight Live TV streaming application built with Flutter.
 
