@@ -1,0 +1,581 @@
+{
+    "channels":[
+        {
+            "name":"YRF music",
+            "channel_link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+            "channel_logo": "lib/Images/YRF music.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Music",
+            "Channel_comp": "YRF",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Zoom",
+            "channel_link": "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8",
+            "channel_logo": "lib/Images/Zoom.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Music",
+            "Channel_comp": "Times Group",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"9xm",
+            "channel_link": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
+            "channel_logo": "lib/Images/9xm_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Music",
+            "Channel_comp": "9xm",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Epic Music",
+            "channel_link": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
+            "channel_logo": "lib/Images/Epic Music.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Music",
+            "Channel_comp": "Epic",
+            "Favorite" : "No"
+        },
+        {
+            "name":"B4U Music",
+            "channel_link": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+            "channel_logo": "lib/Images/b4u_music_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Music",
+            "Channel_comp": "B4U",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Aaj Tak",
+            "channel_link": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+            "channel_logo": "lib/Images/aaj_tak_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "News",
+            "Channel_comp": "Tv Today Network",
+            "Favorite" : "No"
+        },
+        {
+            "name":"India TV",
+            "channel_link": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+            "channel_logo": "lib/Images/india_tv_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "News",
+            "Channel_comp": "INC",
+            "Favorite" : "No"
+        },
+        {
+            "name":"NDTV 24x7",
+            "channel_link": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+            "channel_logo": "lib/Images/NDTV_24x7_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "News",
+            "Channel_comp": "AMG Media",
+            "Favorite" : "No"
+        },
+        {
+            "name":"NDTV India",
+            "channel_link": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+            "channel_logo": "lib/Images/NDTV_india_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "News",
+            "Channel_comp": "AMG Media",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Zee News",
+            "channel_link": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
+            "channel_logo": "lib/Images/zee_news_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "News",
+            "Channel_comp": "Zee",
+            "Favorite" : "No"
+        },
+        {
+            "name":"News18 India",
+            "channel_link": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
+            "channel_logo": "lib/Images/news18_india_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "News",
+            "Channel_comp": "Reliance",
+            "Favorite" : "No"
+        },
+        {
+            "name":"TV9 Marathi",
+            "channel_link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
+            "channel_logo": "lib/Images/tv9_marathi_logo.jpg",
+            "channel_lang": "Marathi",
+            "channel_type": "News",
+            "Channel_comp": "ABCL",
+            "Favorite" : "No"
+        },
+        {
+            "name":"ABP Majha",
+            "channel_link": "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8",
+            "channel_logo": "lib/Images/abp_majha_logo.jpg",
+            "channel_lang": "Marathi",
+            "channel_type": "News",
+            "Channel_comp": "ABP",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Zee 24 Tass",
+            "channel_link": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8",
+            "channel_logo": "lib/Images/zee_24_tass_logo.jpg",
+            "channel_lang": "Marathi",
+            "channel_type": "News",
+            "Channel_comp": "Zee",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Cartoon Network",
+            "channel_link": "http://103.253.18.58:8000/play/a04k",
+            "channel_logo": "lib/Images/Cartoon Network.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Kids",
+            "Channel_comp": "Warner Bros. Discovery",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Cartoon Network HD+",
+            "channel_link": "http://103.253.18.58:8000/play/a04s",
+            "channel_logo": "lib/Images/Cartoon Network HD+.jpg",
+            "channel_lang": "English",
+            "channel_type": "Kids",
+            "Channel_comp": "Warner Bros. Discovery",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Nick",
+            "channel_link": "http://103.253.18.58:8000/play/a01c",
+            "channel_logo": "lib/Images/Nick.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Kids",
+            "Channel_comp": "Nick",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Nick HD",
+            "channel_link": "http://116.90.120.157:8000/play/a0i3/index.m3u8",
+            "channel_logo": "lib/Images/Nick HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Kids",
+            "Channel_comp": "Nick",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Nick jr",
+            "channel_link": "http://103.253.18.58:8000/play/a00y",
+            "channel_logo": "lib/Images/nick_jr_logo.jpg",
+            "channel_lang": "English",
+            "channel_type": "Kids",
+            "Channel_comp": "Nick",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Gold",
+            "channel_link": "http://103.253.18.58:8000/play/a00q",
+            "channel_logo": "lib/Images/Star Gold.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Gold 2",
+            "channel_link": "http://103.253.18.58:8000/play/a00r",
+            "channel_logo": "lib/Images/Star Gold 2.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Gold 2 HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04y",
+            "channel_logo": "lib/Images/Star Gold 2 HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Gold Select HD",
+            "channel_link": "http://103.253.18.58:8000/play/a02u",
+            "channel_logo": "lib/Images/Star Gold Select HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Gold Romance",
+            "channel_link": "http://103.253.18.58:8000/play/a017",
+            "channel_logo": "lib/Images/Star Gold Romance.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"&pictures HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01i",
+            "channel_logo": "lib/Images/&pictures HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "&",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"&TV HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01j",
+            "channel_logo": "lib/Images/&TV HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "&",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Zee Anmol Cinema",
+            "channel_link": "http://103.253.18.58:8000/play/a07n",
+            "channel_logo": "lib/Images/Zee Anmol Cinema.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Zee",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Colors Cineplex HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04w",
+            "channel_logo": "lib/Images/Colors Cineplex HD.png", 
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Colors",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Colors Cineplex Bollywood",
+            "channel_link": "http://103.253.18.58:8000/play/a07g",
+            "channel_logo": "lib/Images/colors_cineplex_bollywood_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Colors",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Colors Cineplex Superhits",
+            "channel_link": "http://103.253.18.58:8000/play/a07i",
+            "channel_logo": "lib/Images/colors_cineplex_superhits_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Colors",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Goldmines Bollywood",
+            "channel_link": "http://103.253.18.58:8000/play/a07h",
+            "channel_logo": "lib/Images/Goldmines Bollywood.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Star Utsav movies",
+            "channel_link": "http://103.253.18.58:8000/play/a07e",
+            "channel_logo": "lib/Images/Star Utsav movies.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "No"
+        },
+        {
+            "name":"B4U Movies",
+            "channel_link": "http://103.253.18.58:8000/play/a07b",
+            "channel_logo": "lib/Images/b4u_movies_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "B4U",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Manoranjan Grand",
+            "channel_link": "http://103.253.18.58:8000/play/a07d",
+            "channel_logo": "lib/Images/Manoranjan Grand.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Star Gold Thrills",
+            "channel_link": "http://103.253.18.58:8000/play/a00o",
+            "channel_logo": "lib/Images/Star Gold Thrills.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Movies HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01x",
+            "channel_logo": "lib/Images/Star Movies HD.png",
+            "channel_lang": "English",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Movies Select HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01w",
+            "channel_logo": "lib/Images/star-movies-select-hd.png",
+            "channel_lang": "English",
+            "channel_type": "Movies",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Movies Now HD",
+            "channel_link": "http://103.253.18.58:8000/play/a03n",
+            "channel_logo": "lib/Images/Movies Now HD.png",
+            "channel_lang": "English",
+            "channel_type": "Movies",
+            "Channel_comp": "Times Group",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Sony Pix HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01v",
+            "channel_logo": "lib/Images/Sony_Pix_HD_logo.png",
+            "channel_lang": "English",
+            "channel_type": "Movies",
+            "Channel_comp": "Sony",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Romedy Now",
+            "channel_link": "http://103.253.18.58:8000/play/a01p",
+            "channel_logo": "lib/Images/Romedy Now.png",
+            "channel_lang": "English",
+            "channel_type": "Movies",
+            "Channel_comp": "Times Group",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"MN+ HD",
+            "channel_link": "http://116.90.120.157:8000/play/a0i4",
+            "channel_logo": "lib/Images/MN+ HD.png",
+            "channel_lang": "English",
+            "channel_type": "Movies",
+            "Channel_comp": "Times Group",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Sony Television HD",
+            "channel_link": "http://103.253.18.58:8000/play/a00f",
+            "channel_logo": "lib/Images/Sony_HD_logo.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Sony",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Sony Pal",
+            "channel_link": "http://103.253.18.58:8000/play/a07j",
+            "channel_logo": "lib/Images/SONY_PAL_logo.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Sony",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Sony Wah",
+            "channel_link": "http://103.253.18.58:8000/play/a07o",
+            "channel_logo": "lib/Images/Sony_Wah_logo.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Sony",
+            "Favorite" : "No"
+        },
+        {
+            "name":"MTV HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01t",
+            "channel_logo": "lib/Images/Mtv_HD_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "MTV",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Colors HD",
+            "channel_link": "http://103.253.18.58:8000/play/a00n",
+            "channel_logo": "lib/Images/colors_HD_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Colors",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Colors Rishtey",
+            "channel_link": "http://103.253.18.58:8000/play/a07p",
+            "channel_logo": "lib/Images/colors_rishtey_logo.jpg",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Colors",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Star Plus HD",
+            "channel_link": "http://103.253.18.58:8000/play/a00l",
+            "channel_logo": "lib/Images/Star Plus HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Star",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Star Bharat",
+            "channel_link": "http://103.253.18.58:8000/play/a00u",
+            "channel_logo": "lib/Images/Star Bharat.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Star",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Epic Bharat",
+            "channel_link": "http://103.253.18.58:8000/play/a07k",
+            "channel_logo": "lib/Images/Epic Bharat.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Entertainment",
+            "Channel_comp": "Epic",
+            "Favorite" : "No"
+        },
+        {
+            "name":"National Geography HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01l",
+            "channel_logo": "lib/Images/National Geography HD.png",
+            "channel_lang": "English",
+            "channel_type": "Informative",
+            "Channel_comp": "Warner Bros. Discovery",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"National Wild HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04d",
+            "channel_logo": "lib/Images/National Wild HD.png",
+            "channel_lang": "English",
+            "channel_type": "Informative",
+            "Channel_comp": "Warner Bros. Discovery",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Discovery HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01r",
+            "channel_logo": "lib/Images/Discovery HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Informative",
+            "Channel_comp": "Warner Bros. Discovery",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Discovery turbo",
+            "channel_link": "http://103.253.18.58:8000/play/a03m",
+            "channel_logo": "lib/Images/Discovery turbo.png",
+            "channel_lang": "English",
+            "channel_type": "Informative",
+            "Channel_comp": "Warner Bros. Discovery",
+            "Favorite" : "No"
+        },
+        {
+            "name":"History TV18 HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01f",
+            "channel_logo": "lib/Images/History TV18 HD.png",
+            "channel_lang": "English",
+            "channel_type": "Informative",
+            "Channel_comp": "AETN18",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"TravelXP HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04x",
+            "channel_logo": "lib/Images/TravelXP HD.png",
+            "channel_lang": "English",
+            "channel_type": "Informative",
+            "Channel_comp": "",
+            "Favorite" : "No"
+        },
+        {
+            "name":"Sony BBC Earth",
+            "channel_link": "http://103.253.18.58:8000/play/a01g",
+            "channel_logo": "lib/Images/SBBCE_logo.png",
+            "channel_lang": "English",
+            "channel_type": "Informative",
+            "Channel_comp": "Sony",
+            "Favorite" : "No"
+        },     
+        {
+            "name":"Star Sports 1 Hindi",
+            "channel_link": "http://103.253.18.58:8000/play/a03o",
+            "channel_logo": "lib/Images/Star Sports 1 Hindi.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Sports",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Sports 1 HD",
+            "channel_link": "http://103.253.18.58:8000/play/a00m",
+            "channel_logo": "lib/Images/Star Sports 1 HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Sports",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Sports 2 HD",
+            "channel_link": "http://103.253.18.58:8000/play/a01u",
+            "channel_logo": "lib/Images/Star Sports 2 HD.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Sports",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Star Sports 3",
+            "channel_link": "http://103.253.18.58:8000/play/a00b",
+            "channel_logo": "lib/Images/Star Sports 3.png",
+            "channel_lang": "Hindi",
+            "channel_type": "Sports",
+            "Channel_comp": "Star",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"EuroSport HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04t",
+            "channel_logo": "lib/Images/EuroSport HD.png",
+            "channel_lang": "English",
+            "channel_type": "Sports",
+            "Channel_comp": "",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Ten sports HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04h",
+            "channel_logo": "lib/Images/Ten sports HD.png",
+            "channel_lang": "English",
+            "channel_type": "Sports",
+            "Channel_comp": "sony",
+            "Favorite" : "Yes"
+        },
+        {
+            "name":"Geo super HD",
+            "channel_link": "http://103.253.18.58:8000/play/a04j",
+            "channel_logo": "lib/Images/Geo super HD.png",
+            "channel_lang": "English",
+            "channel_type": "Sports",
+            "Channel_comp": "",
+            "Favorite" : "Yes"
+        }
+    ]
+}
+

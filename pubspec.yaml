@@ -1,0 +1,155 @@
+name: chester_tv
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.9
+  media_kit: ^1.1.11
+  media_kit_video: ^1.2.5
+  media_kit_libs_video: ^1.0.5
+  flutter_launcher_icons: ^0.14.4
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "lib/Images/Chester TV nbg.jpg"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+
+    - lib/channels.json
+    - lib/Images/Chester TV nbg.jpg
+    - lib/Images/Chester TV.jpg
+    - lib/Images/Mtv Beats.png
+    - lib/Images/Mtv_beats_HD_logo.jpg
+    - lib/Images/9xm_logo.jpg
+    - lib/Images/nick_jr_logo.jpg
+    - lib/Images/aaj_tak_logo.jpg
+    - lib/Images/abp_majha_logo.jpg
+    - lib/Images/sonic_logo.jpg
+    - lib/Images/QMusic_logo.jpg
+    - lib/Images/b4u_movies_logo.jpg
+    - lib/Images/b4u_music_logo.jpg
+    - lib/Images/colors_cineplex_bollywood_logo.jpg
+    - lib/Images/colors_cineplex_superhits_logo.jpg
+    - lib/Images/colors_HD_logo.jpg
+    - lib/Images/colors_marathi_logo.jpg
+    - lib/Images/colors_rishtey_logo.jpg
+    - lib/Images/india_news_logo.jpg
+    - lib/Images/jai_maharashtra_logo.jpg
+    - lib/Images/india_tv_logo.jpg
+    - lib/Images/saam_tv_logo.jpg
+    - lib/Images/sony_sports_ten_1_logo.jpg
+    - lib/Images/sports_18_1_HD_logo.jpg
+    - lib/Images/tv9_marathi_logo.jpg
+    - lib/Images/zee_24_tass_logo.jpg
+    - lib/Images/zee_zing_logo.jpg
+    - lib/Images/NDTV_24x7_logo.jpg
+    - lib/Images/NDTV_india_logo.jpg
+    - lib/Images/news18_india_logo.jpg
+    - lib/Images/news18_lokmat_logo.jpg
+    - lib/Images/Mtv.png
+    - lib/Images/Mtv_HD_logo.jpg
+    - lib/Images/zee_news_logo.jpg
+    - lib/Images/toonami_aftermath_logo.jpg
+    - lib/Images/sony_liv_logo.jpg
+    - lib/Images/MESHRAM_tv.jpg
+    - lib/Images/Sony_HD_logo.png
+    - lib/Images/SONY_SAB_HD_logo.png
+    - lib/Images/SONY_PAL_logo.png
+    - lib/Images/SONY_YAY_logo.png
+    - lib/Images/Sony_Marathi_logo.png
+    - lib/Images/Sony_Aath_logo.png
+    - lib/Images/Sony_Max_HD_logo.png
+    - lib/Images/Sony_Max_logo.png
+    - lib/Images/Sony_Wah_logo.png
+    - lib/Images/Sony_Max2_logo.png
+    - lib/Images/Sony_Pix_HD_logo.png
+    - lib/Images/SBBCE_logo.png
+    - lib/Images/Sony_SportsTen1_SD_Logo.png
+    - lib/Images/Sony_SportsTen2_logo.png
+    - lib/Images/Sony_SportsTen3_logo.png
+    - lib/Images/Sony_SportsTen4_logo.png
+    - lib/Images/Sony_SportsTen5_logo.png
+    - lib/Images/Sony_SportsTen1_HD_logo.png
+    - lib/Images/Sony_SportsTen2_HD_logo.png
+    - lib/Images/Sony_SportsTen3_HD_logo.png
+    - lib/Images/Sony_SportsTen4_HD_logo.png
+    - lib/Images/Sony_SportsTen5_HD_logo.png
+    - lib/Images/Sony_Kal_Logo.jpeg
+    - lib/Images/POGO.png
+    - lib/Images/HBO+.png
+    - lib/Images/hbo_logo.jpg
+    - lib/Images/Hungama_TV.png
+    - lib/Images/Music.png
+    - lib/Images/Cartoon Network.png
+    - lib/Images/Zoom.jpg
+    - lib/Images/YRF music.png
+    - lib/Images/Star Gold 2.png
+    - lib/Images/Star Gold 2 HD.png
+    - lib/Images/Star Gold Select HD.png
+    - lib/Images/Star Gold Romance.png
+    - lib/Images/Star Movies HD.png
+    - lib/Images/star-movies-select-hd.png
+    - lib/Images/Discovery HD.png
+    - lib/Images/Zee cinema.jpg
+    - lib/Images/Star Sports 1 HD.png
+    - lib/Images/Vh1.png
+    - lib/Images/Vh1 HD.png
+    - lib/Images/Movies Now HD.png
+    - lib/Images/&pictures HD.png
+    - lib/Images/&TV HD.png
+    - lib/Images/&prive HD.png
+    - lib/Images/&flix HD.png
+    - lib/Images/Zee Yuva.png
+    - lib/Images/Zee Talkies HD.png
+    - lib/Images/Zee Cinema HD.png
+    - lib/Images/Zee Bollywood.png
+    - lib/Images/Zee Anmol Cinema.png
+    - lib/Images/Zee Action.png
+    - lib/Images/Nick.png
+    - lib/Images/Nick HD.png
+    - lib/Images/Nick HD+.png
+    - lib/Images/Kadak HIts.png
+    - lib/Images/History TV18 HD.png
+    - lib/Images/E24.png
+    - lib/Images/Goldmines Bollywood.png
+    - lib/Images/Colors Cineplex.png
+    - lib/Images/Colors Cineplex HD.png
+    - lib/Images/Star Gold.png
+    - lib/Images/Star Utsav movies.png
+    - lib/Images/Discovery Kids.png
+    - lib/Images/Cartoon Network HD+.jpg
+    - lib\Images\Jio Kids.png
+    - lib/Images/Manoranjan Grand.png
+    - lib/Images/Star Gold Thrills.png
+    - lib/Images/Romedy Now.png
+    - lib/Images/MN+ HD.png
+    - lib/Images/Star Plus HD.png
+    - lib/Images/Star Bharat.png
+    - lib/Images/Epic Bharat.png
+    - lib/Images/National Geography HD.png
+    - lib/Images/National Wild HD.png
+    - lib/Images/Discovery turbo.png
+    - lib/Images/TravelXP HD.png
+    - lib/Images/Star Sports 1 Hindi.png
+    - lib/Images/Star Sports 2 HD.png
+    - lib/Images/Star Sports 3.png
+    - lib/Images/EuroSport HD.png
+    - lib/Images/Ten sports HD.png
+    - lib/Images/Geo super HD.png
+    - lib/Images/Epic Music.png
